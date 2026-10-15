@@ -78,3 +78,11 @@ Performed analysis on Coffee House Coupon type to understand what driver charact
   <img width="883" height="430" alt="image" src="https://github.com/user-attachments/assets/041cdcc3-0651-487c-ba52-98e764c23a4c" />
 
 * Age: Age appears to matter in driving coffee house coupon acceptance. Drivers under age 21 are most likely to accept coupons and also majority of the users represented in this category are "Students". The adoption might be more due to social engagement with friends during or after school/college time.
+
+**Next Steps and Recommendations:**
+1. **Target drivers by their visit habits.** Past visits were the strongest signal in this analysis. Drivers who go to bars more than 3 times a month accepted 76.88% of bar coupons, compared with 37.07% for others. Drivers who visit coffee houses 4–8 times a month accepted 68.59% of coffee coupons, compared with 18.88% for drivers who never go. Coupons sent to drivers who never visit a venue type are largely wasted.
+2. **Send coffee coupons when drivers have time to spare.** Acceptance was 58.10% on trips to "No Urgent Place," compared with 44.58% on trips to work and 36.21% on trips home. Mid-morning (10AM, 64.07%) and early afternoon (2PM, 54.79%) were the best delivery times.
+3. **Prefer longer expiration windows.** Coffee coupons valid for 1 day were accepted 58.39% of the time, compared with 43.20% for 2-hour coupons.
+4. **Target social trips.** Drivers traveling with friends (59.69%) or a partner (57.05%) accepted coffee coupons more often than drivers alone (43.79%).
+5. **Test students and young drivers as a segment.** Students accepted 62.53% of coffee coupons, compared with 48.13% for non-students. Because this rests on a small number of respondents, validate it before relying on it.
+
