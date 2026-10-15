@@ -32,3 +32,7 @@ Dataset was analyzed to understand if there any duplicate rows.
 
 # Data Cleaning:
 
+Below cleanup actions were taken to improve the data quality:
+* Duplicate Records: Dropping these records from the dataset doesn't improve missing data quality sharply. So, we are going to assume that the 74 duplicate rows are indeed genuine records.
+* Drop "car" column since 99.15% users do not have the data.
+* Replace missing data using "Mode" in columns remaining 5 columns (CoffeeHouse, Restaurant20To50, CarryAway, RestaurantLessThan20 and Bar). "Mean" is not an appropriate choice because the data in these columns is not numeric in nature. "Median" is not appropriate either because it provides a value which is at the middle. Instead, Mode will be able to substitute the missing data with the most frequent value that appeared in the dataset.
