@@ -5,7 +5,7 @@ Goal of this assignment is to use the knowledge about visualizations and probabi
 
 **Dataset**
 
-coupons.csv stored in below location will be used to perform this analysis. 
+coupons.csv stored in below location will be used to perform this analysis.
 **Link**: https://github.com/bharathkveluri/UC_Berkeley_AI-ML_PA1_Will_The_Customer_Accept_The_Coupon/blob/main/data/coupons.csv
 
 **Jupyter Notebook:**
