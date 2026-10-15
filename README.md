@@ -72,6 +72,8 @@ Performed analysis on Coffee House Coupon type to understand what driver charact
 
 **Hypothesis:**
 * General: Coffee house coupons were accepted about half the time (49.92%), below the 56.84% rate across all coupon types. Based on other data points in findings, acceptance depends more on the driver's situation than on the offer itself.
+  <img width="378" height="401" alt="image" src="https://github.com/user-attachments/assets/95096ea8-ca2d-4684-9a51-bf788f6853d7" />
+
 * Time: Time is an important factor to drive coupon acceptance. Coffee House coupon acceptance peaked when the coupon arrived at 10AM (64.07%) and 2PM (54.79%). This will indicate that acceptance rate rises during driver's spare time rather than busy time like commuting to or fro from work or at home.
   <img width="883" height="430" alt="image" src="https://github.com/user-attachments/assets/041cdcc3-0651-487c-ba52-98e764c23a4c" />
 
