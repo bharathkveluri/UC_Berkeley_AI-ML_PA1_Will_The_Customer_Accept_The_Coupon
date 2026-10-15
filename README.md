@@ -36,3 +36,12 @@ Below cleanup actions were taken to improve the data quality:
 * Duplicate Records: Dropping these records from the dataset doesn't improve missing data quality sharply. So, we are going to assume that the 74 duplicate rows are indeed genuine records.
 * Drop "car" column since 99.15% users do not have the data.
 * Replace missing data using "Mode" in columns remaining 5 columns (CoffeeHouse, Restaurant20To50, CarryAway, RestaurantLessThan20 and Bar). "Mean" is not an appropriate choice because the data in these columns is not numeric in nature. "Median" is not appropriate either because it provides a value which is at the middle. Instead, Mode will be able to substitute the missing data with the most frequent value that appeared in the dataset.
+
+# General Data Findings
+* The percentage of drivers who accepted the coupon across all coupon types was 56.84%.
+  <img width="379" height="399" alt="image" src="https://github.com/user-attachments/assets/1ae039b9-5048-45f8-b177-031bf3d6db7e" />
+* Coffee House coupons were the most accepted coupons by the drivers.
+  <img width="570" height="521" alt="image" src="https://github.com/user-attachments/assets/51688a51-587d-48cc-84b3-8a4af8da7c81" />
+* The coupons acceptance rate was 51.47% on a day with temperature at 80°F. This is a strong indicator that coupons distribution on a day with higher temperature will yield more business.
+  <img width="877" height="426" alt="image" src="https://github.com/user-attachments/assets/e1fffc20-d659-486f-8a66-a13420816902" />
+ 
